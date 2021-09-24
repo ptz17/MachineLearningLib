@@ -1,4 +1,4 @@
-To run the script for this assignment, please follow these steps in the lunix terminal.
+To run the script for this assignment, please follow these steps in the CADE linux terminal.
 
 1) Clone repository onto local computer running: "git clone https://github.com/ptz17/MachineLearningLib.git"
 2) Change directories into "MachineLearningLib/DecisionTree"
